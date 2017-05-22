@@ -35,10 +35,6 @@ github.
     <td><code>bstDriver.cpp</code></td>
     <td><a href="https://github.com/qwergram/AVL-Tree/blob/master/AVLTree/bstDriver.cpp">Source</a></td>
 </tr>
-<tr>
-    <td><code>bsttests.cpp</code></td>
-    <td><a href="https://github.com/qwergram/AVL-Tree/blob/master/AVLTests/bsttests.cpp">Source</a></td>
-</tr>
 </table>
 
-This boilerplate comes with unit tests. You do have the ability to remove the testing framework if you choose to by using the [`notests` branch](https://github.com/qwergram/AVL-Tree/tree/notests).
+This boilerplate does not come with unit tests. For the branch with tests, view the [`master` branch](https://github.com/qwergram/AVL-Tree/tree/master).
